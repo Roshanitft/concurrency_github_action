@@ -34,4 +34,4 @@ jobs:
         run: |
           echo "start test"
           sleep 2m
-          echo "end test"
+          echo "end test".
